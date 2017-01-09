@@ -28,6 +28,7 @@ public class PuzzleActivity extends AppCompatActivity {
         // Some setup of the view.
         boardView.setLayoutParams(new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT, RelativeLayout.LayoutParams.MATCH_PARENT));
         container.addView(boardView);
+
     }
 
     @Override
